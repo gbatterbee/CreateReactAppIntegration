@@ -1,3 +1,10 @@
+Installation:
+clone repo
+navigate to root directory
+yarn install
+yarn start.
+
+Summary:
 When embedding an app bundled using WebPack into an existing Application i.e. as a Microfrontend.
 
 Sometimes, it may may be required to couple the Frontend and the Host closer than simple pub-sub provides.
