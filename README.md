@@ -1,8 +1,8 @@
-Installation:
-clone repo
-navigate to root directory
-yarn install
-yarn start.
+Installation:  
+clone repo  
+navigate to root directory  
+yarn install  
+yarn start.  
 
 Summary:
 When embedding an app bundled using WebPack into an existing Application i.e. as a Microfrontend.
