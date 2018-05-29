@@ -2,7 +2,7 @@ When embedding an app bundled using WebPack into an existing Application i.e. as
 
 Sometimes, it may may be required to couple the Frontend and the Host closer than simple pub-sub provides.
 
-For example
+For example:
   there are multiple instances of the same front required,
   the host needs to communicate directly to a component,
   it's necessary to mount the component at different nodes,
